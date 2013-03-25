@@ -1,0 +1,12 @@
+# ~/.ssh/config
+
+Host github
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_dsa
+
+Host exsample
+  HostName  example.com
+  User foo
+  IdentityFile ~/.ssh/id_rsa
+
