@@ -5,7 +5,7 @@ Host github
   User git
   IdentityFile ~/.ssh/id_dsa
 
-Host exsample
+Host example
   HostName  example.com
   User foo
   IdentityFile ~/.ssh/id_rsa
